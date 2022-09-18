@@ -2,7 +2,7 @@
 
 **Project**
 
-<ins>Title:</ins> Identifying Motifs of Specific Families Using Unsupervised Machine Learning  
+<ins>Title:</ins> Identifying RNA Motifs of Specific Families Using Machine Learning  
 
 <ins>Abstract:</ins>  
   
@@ -16,3 +16,5 @@ algorithms.
 - Results: Using supervised learning, we were able to achieve a high accuracy in predicting the family of a
 motif while unsupervised learning have shown moderate performance. In conclusion, supervised learning
 performs better in predicting motif families with an accuracy higher than 92%.
+
+*** Currently working on a project to cluster RNA motifs based on structural similarity using Graph Isomophism Network (GIN)
